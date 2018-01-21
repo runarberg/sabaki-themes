@@ -50,6 +50,8 @@ Download [blind-mode](https://github.com/ParmuzinAlexander/sabaki-themes/raw/mas
 
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/background1.png)
 
+## Background
+
 Download [background1](https://github.com/ParmuzinAlexander/sabaki-themes/raw/master/background1.png)
 
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/background2.png)
