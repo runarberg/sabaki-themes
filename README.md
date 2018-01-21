@@ -4,6 +4,8 @@
 * Download *.asar
 * Preferences > Themes > Install Theme
 
+## Themes
+
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board1-stone1-theme.png)
 
 Download [board1-stone1-theme](https://github.com/ParmuzinAlexander/sabaki-themes/raw/master/board1-stone1-theme.asar)
@@ -48,9 +50,9 @@ Download [one-color-mode](https://github.com/ParmuzinAlexander/sabaki-themes/raw
 
 Download [blind-mode](https://github.com/ParmuzinAlexander/sabaki-themes/raw/master/blind-mode.asar)
 
-![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/background1.png)
-
 ## Background
+
+![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/background1.png)
 
 Download [background1](https://github.com/ParmuzinAlexander/sabaki-themes/raw/master/background1.png)
 
