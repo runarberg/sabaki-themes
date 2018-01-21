@@ -3,6 +3,7 @@
 * For Sabaki 31 or newer
 * Download *.asar
 * Preferences > Themes > Install Theme
+
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board1-stone1-theme.png)
 * Download [board1-stone1-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board1-stone1-theme.asar)
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board1-stone2-theme.png)
