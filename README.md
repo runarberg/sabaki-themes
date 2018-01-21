@@ -5,11 +5,15 @@
 * Preferences > Themes > Install Theme
 
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board1-stone1-theme.png)
-* Download [board1-stone1-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board1-stone1-theme.asar)
+
+Download [board1-stone1-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board1-stone1-theme.asar)
+
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board1-stone2-theme.png)
-* Download [board1-stone2-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board1-stone2-theme.asar)
+
+Download [board1-stone2-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board1-stone2-theme.asar)
+
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board2-stone1-theme.png)
-* Download [board2-stone1-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board2-stone1-theme.asar)
+Download [board2-stone1-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board2-stone1-theme.asar)
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board2-stone2-theme.png)
 * Download [board2-stone2-theme](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/board2-stone2-theme.asar)
 ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/board2-stone3-theme.png)
