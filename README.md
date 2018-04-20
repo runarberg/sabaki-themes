@@ -19,3 +19,9 @@
 | ------------- | ------------- |
 | [background1](https://github.com/ParmuzinAlexander/sabaki-themes/raw/master/background1.png) | ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/background1.png) |
 | [background2](https://github.com/ParmuzinAlexander/sabaki-themes/raw/master/background2.png) | ![Screenshot](https://github.com/ParmuzinAlexander/sabaki-themes/blob/master/screenshot/background2.png) |
+
+| Tweaks  | Code |
+| ------------- | ------------- |
+| Hide last stone marker | .goban .row li.sign_1.point .stone::after {background: none;}.goban .row li.sign_-1.point.stone::after {background: none;} |
+| Hide goban shadow | #goban {box-shadow: none;} |
+| Hide bar | main {bottom: 0;}#bar {visibility: hidden;} |
