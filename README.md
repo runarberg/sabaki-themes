@@ -1,4 +1,4 @@
-# Themes for [Sabaki](http://sabaki.yichuanshen.de)
+# Themes for [Sabaki](https://github.com/SabakiHQ/Sabaki)
 
 | Theme  | Screenshot |
 | ------------- | ------------- |
